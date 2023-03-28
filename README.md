@@ -23,7 +23,7 @@ Hoyolab auto daily check-in - this is a simple program that allows you to always
 https://wayscript.com/home
 
 2. Download the Script<br>Click +New Lair -> Github URL and insert my link: <br>https://github.com/thanhhai10xpro/autologinhoyolab<br>
-![(clone)](https://imgur.com/a/YXWTRNe)
+![(clone)](https://imgur.com/gallery/YXWTRNe)
 
 3. Set up the time<br>
 ![(time)](https://i.imgur.com/ECpJlSY.png)
