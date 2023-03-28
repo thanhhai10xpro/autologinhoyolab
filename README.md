@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/vermaysha/Hoyolab-Auto-Daily-Checkin"><img src="https://imgur.com/L54eATq.png" alt="Red - Discord Bot"></a>
+  <a href="https://github.com/thanhhai10xpro/autologinhoyolab"><img src="https://cdn.donmai.us/sample/98/a6/__elysia_and_elysia_honkai_and_1_more_drawn_by_jubeol126__sample-98a62a7ba84e8ff8d1b501979cec2296.jpg" alt="Red - Discord Bot"></a>
   <br>
   Hoyolab Auto Daily Check-in
   <br>
@@ -18,17 +18,12 @@
 # Overview
 Hoyolab auto daily check-in - this is a simple program that allows you to always claim daily login rewards from hoyolab, supports the game Genshin Impact & Honkai Impact 3rd
 
-**Features:**
-1. Send notification to discord channel
-2. Multiple hoyoverse account
-3. Lightweight
-
 # Installation
 1. Make a WayScript Account
 https://wayscript.com/home
 
-2. Clone the Script<br>Go here and clone this script<br>https://wayscript.com/script/G8r6u_3B<br>
-![(clone)](https://i.imgur.com/BzcEwsl.png)
+2. Download the Script<br>Click +New Lair -> Github URL and insert my link: <br>https://github.com/thanhhai10xpro/autologinhoyolab<br>
+![(clone)](https://imgur.com/a/YXWTRNe)
 
 3. Set up the time<br>
 ![(time)](https://i.imgur.com/ECpJlSY.png)
